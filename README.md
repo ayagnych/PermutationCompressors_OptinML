@@ -1,5 +1,5 @@
 # Permutation Compressors 
-[View the PDF file](PermutationCompressors_OptinML/CGD+Marina.pdf)
+[Project presentation](PermutationCompressors_OptinML/CGD+Marina.pdf)
 
 # Problem
 
